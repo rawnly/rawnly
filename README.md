@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Federico
 
 - I’m currently into **Rust** & **macOS Development**
 
