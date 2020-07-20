@@ -3,6 +3,7 @@
 
 #### Reach me at
 [hi@fedevitale.dev](mailto:hi@fedevitale.dev) <br/>
+[@fedevitale.dev](instagram.com/fedevitale.dev/) <br/>
 [@fedevitaledev](twitter.com/fedevitaledev/) <br/>
 
 ### 🥳 Support Me
