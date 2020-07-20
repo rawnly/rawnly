@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Rawnly/rawnly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently into **Rust** & **macOS Development**
 
-Here are some ideas to get you started:
--->
-- 🌱 I’m currently learning: Rust
-
+#### Reach me at
 - [hi@fedevitale.dev](mailto:hi@fedevitale.dev)
 - [@fedevitaledev](twitter.com/fedevitaledev/)
 
