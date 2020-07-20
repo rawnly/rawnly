@@ -3,8 +3,8 @@
 
 #### Reach me at
 [hi@fedevitale.dev](mailto:hi@fedevitale.dev) <br/>
-[@fedevitale.dev](instagram.com/fedevitale.dev/) <br/>
-[@fedevitaledev](twitter.com/fedevitaledev/) <br/>
+[@fedevitale.dev](https://instagram.com/fedevitale.dev/) <br/>
+[@fedevitaledev](https://twitter.com/fedevitaledev/) <br/>
 
 ### 🥳 Support Me
 [Get 10$ on **Notion**](https://www.notion.so/?r=a343a2c1fbd9490c85dd67fe7576debc) <br/>
