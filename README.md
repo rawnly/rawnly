@@ -2,7 +2,7 @@
 > Currently into **Go/Rust** & **macOS Development**
 
 ## 👾 About Me
-- 👋 I'm 21, currently living in Rome, Italy
+- 👋 I'm 21, currently living in **Rome, Italy**
 - 🚀 Front End Engineer at @chilispa
 - ✍️ I share my findings on [Medium](https://medium.com/@fede.vitale)
 - 📸 Photos on [Unsplash](https://unsplash.com/@fedevitale)
