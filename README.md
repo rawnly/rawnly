@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Federico
-> Currently into **Rust** & **macOS Development**
+> Currently into **Go/Rust** & **macOS Development**
 
-## About Me
+## 👾 About Me
 - 👋 I'm 21, currently living in Rome, Italy
 - 🚀 Front End Engineer at @chilispa
 - ✍️ I share my findings on [Medium](https://medium.com/@fede.vitale)
