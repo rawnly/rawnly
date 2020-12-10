@@ -2,15 +2,15 @@
 > Currently into **Go/Rust** & **macOS Development**
 
 ## 👾 About Me
-- 👋 I'm 21, currently living in **Rome, Italy**
-- 🚀 Front End Engineer at @chilispa
-- ✍️ I share my findings on [Medium](https://medium.com/@fede.vitale)
-- 📸 Photos on [Unsplash](https://unsplash.com/@fedevitale)
+- 👋 &nbsp;I'm 21, currently living in **Rome, Italy**
+- 🚀 &nbsp;Front End Engineer at @chilispa
+- ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale)
+- 📸  &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
 
 #### 📬 Reach me at
-- ✉️ [hi@fedevitale.dev](mailto:hi@fedevitale.dev) <br/>
-- 📱 [@fedevitale.dev](https://instagram.com/fedevitale.dev/) <br/>
-- 🐦 [@fedevitaledev](https://twitter.com/fedevitaledev/) <br/>
+- ✉️ &nbsp;[hi@fedevitale.dev](mailto:hi@fedevitale.dev) <br/>
+- 📱 &nbsp;[@fedevitale.dev](https://instagram.com/fedevitale.dev/) <br/>
+- 🐦 &nbsp;[@fedevitaledev](https://twitter.com/fedevitaledev/) <br/>
 
 ### Referreals ✌️
 - Boost your mood with [150$ on **Autonomous.ai**](https://bit.ly/3iFXdcn) <br />
