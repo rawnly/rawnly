@@ -4,7 +4,7 @@
 ## 👾 About Me
 - 👋 &nbsp;I'm 21, currently living in **Rome, Italy**
 - 🚀 &nbsp;Front End Engineer at @chilispa
-- ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale)
+- ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale) / [My Blog](https://blog.fedevitale.dev)
 - 📸  &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
 
 #### 📬 Reach me at
