@@ -33,7 +33,7 @@ jobs:
           AGE=$(echo "($CURRENT_YEAR - $BIRTH_YEAR)" | bc -l)
           OLD_AGE=$(echo "$AGE - 1" | bc -l)
           
-          echo $(cat README.md | sed "s/$OLD_AGE/$AGE/g") > README.md
+          sed "s/$OLD_AGE/$AGE/g" README.md
           
           git add README.md
           git commit -m "Updated age: $OLD_AGE => $AGE 🎉"
