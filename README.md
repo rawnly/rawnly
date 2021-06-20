@@ -6,7 +6,7 @@
 - 🚀 &nbsp;Front End Engineer at [@facile-it](https://github.com/facile-it/)
 - ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale) / [My Blog](https://blog.fedevitale.dev)
 - 📸  &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
-- 🤡 Fun fact : I spend all my money on my track bike
+- 🤡 Fun fact -> I spend all my money on my track bike
 
 #### 📬 Reach me at
 - ✉️ &nbsp;[hi@fedevitale.dev](mailto:hi@fedevitale.dev) <br/>
