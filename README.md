@@ -2,7 +2,7 @@
 > Currently into **Rust/Functional Programming** 
 
 ## 👾 About Me
-- 👋 &nbsp;I'm 21, currently living in **Rome, Italy**
+- 👋 &nbsp;I'm 22, currently living in **Rome, Italy**
 - 🚀 &nbsp;Front End Engineer at [@facile-it](https://github.com/facile-it/)
 - ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale) / [My Blog](https://blog.fedevitale.dev)
 - 📸  &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
