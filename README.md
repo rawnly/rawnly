@@ -3,7 +3,7 @@
 
 ## 👾 About Me
 - 👋 &nbsp;I'm 22, currently living in **Rome, Italy**
-- 🚀 &nbsp;Front End Engineer at [@facile-it](https://github.com/facile-it/)
+- 🚀 &nbsp;Front End Engineer at [@aquacloud](https://github.com/aquacloud-dev/)
 - ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale) / [My Blog](https://blog.fedevitale.dev)
 - 📸  &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
 - 🤡 Fun fact -> Most of my articles are on Swift, but I work with React 😅
