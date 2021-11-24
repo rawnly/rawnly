@@ -6,6 +6,7 @@
 - ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale) / [My Blog](https://blog.fedevitale.dev)
 - 📸  &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
 - 🤡 Fun fact -> Most of my articles are on Swift, but I work with React 😅
+- 💻 Terminal over UI. I love creating CLIs to smooth and automate my workflow.
 
 #### 📬 Reach me at
 - ✉️ &nbsp;[hi@fedevitale.dev](mailto:hi@fedevitale.dev) <br/>
