@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Federico
-> Currently into **Rust/Functional Programming** 
 
 ## 👾 About Me
 - 👋 &nbsp;I'm 22, currently living in **Rome, Italy**
