@@ -7,7 +7,7 @@
 - 🤡 Fun fact -> Most of my articles are on Swift, but I work with React 😅
 - 💻 Terminal over UI. I love creating CLIs to smooth and automate my workflow.
 
-### DevKit
+#### DevKit
 - 🦊 [Firefox Developer Edition][firefox-dev] / *Safari*
 - 🗒️ VSCode / Goland / IntelliJ
 - 💻 [iTerm2][iterm] / [OhMyZSH][oh-my-zsh] / [p10k][powerlevel10k]
