@@ -3,12 +3,12 @@
 ## 👾 About Me
 - 👋 &nbsp;I'm 22, currently living in **Rome, Italy**
 - ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale) / [My Blog](https://blog.fedevitale.dev)
-- 📸  &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
+- 📸 &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
 - 🤡 Fun fact -> Most of my articles are on Swift, but I work with React 😅
 - 💻 Terminal over UI. I love creating CLIs to smooth and automate my workflow.
 
 #### 📬 Reach me at
-- ✉️ &nbsp;[hi@fedevitale.dev](mailto:hi@fedevitale.dev) <br/>
+- ✉️ &nbsp;[mail@fedevitale.dev](mailto:mail@fedevitale.dev) <br/>
 - 📱 &nbsp;[@fedevitale.dev](https://instagram.com/fedevitale.dev/) <br/>
 - 🐦 &nbsp;[@fedevitaledev](https://twitter.com/fedevitaledev/) <br/>
 
