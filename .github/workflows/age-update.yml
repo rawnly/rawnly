@@ -27,6 +27,7 @@ jobs:
           git config user.email "$GTHUB_ACTOR@users.noreply.github.com"
           git config user.name "$GITHUB_ACTOR"
       - name: Update year
+        id: readme
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -42,6 +43,7 @@ jobs:
           git commit -m "Updated age: $OLD_AGE => $AGE 🎉"
           git push -u origin master
           
+          echo ::set-output name=old-age::$OLD_AGE
           echo ::set-output name=age::$AGE
       -
         name: Update BIO
@@ -50,5 +52,5 @@ jobs:
           github-token: ${{ secrets.TKN }}
           script: |
             github.rest.users.getAuthenticated()
-              .then(console.log)
+              .then(response => console.log(response.data.bio, response.data.bio.replace('${{ steps.readme.outputs.old-age', '${{ steps.readme.output.age }}') ))
           
