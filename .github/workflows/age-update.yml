@@ -39,11 +39,11 @@ jobs:
           
           sed -i "s/$OLD_AGE/$AGE/" README.md
                     
-          git add -A .
-          git commit -m "Updated age: $OLD_AGE => $AGE 🎉"
-          git push -u origin master
+          #git add -A .
+          #git commit -m "Updated age: $OLD_AGE => $AGE 🎉"
+          #git push -u origin master
           
-          echo ::set-output name=old-age::$OLD_AGE
+          echo ::set-output name=old_age::$OLD_AGE
           echo ::set-output name=age::$AGE
       -
         name: Update BIO
@@ -52,5 +52,10 @@ jobs:
           github-token: ${{ secrets.TKN }}
           script: |
             github.rest.users.getAuthenticated()
-              .then(response => console.log(response.data.bio, response.data.bio.replace('${{ steps.readme.outputs.old-age', '${{ steps.readme.output.age }}') ))
+              .then(response => 
+                console.log(
+                  response.data.bio, 
+                  response.data.bio.replace('${{ steps.readme.outputs.old_age', '${{ steps.readme.outputs.age }}') 
+                )
+              )
           
