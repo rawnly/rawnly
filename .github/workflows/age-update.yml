@@ -46,6 +46,9 @@ jobs:
       -
         name: Update BIO
         uses: actions/github-script@v6
+        env: 
+          GITHUB_TOKEN: ${{ secrets.TKN }}
+          GH_TOKEN: ${{ secrets.TKN }}
         with:
           script: |
             github.rest.users.getAuthenticated()
