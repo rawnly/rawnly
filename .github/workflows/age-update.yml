@@ -39,7 +39,7 @@ jobs:
           updated=$(sed "s/$OLD_AGE/$AGE/g" README.md)
           echo $updated > READDME.md
           
-          git add README.md
+          git add -a README.md
           git commit -m "Updated age: $OLD_AGE => $AGE 🎉"
           git push -u origin master
           
