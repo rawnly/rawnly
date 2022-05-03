@@ -2,7 +2,7 @@
 
 name: CI
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   workflow_dispatch:
   # Triggers the workflow on push or pull request events but only for the master branch
@@ -33,16 +33,16 @@ jobs:
         run: |
           CURRENT_YEAR=$(date '+%Y')
           BIRTH_YEAR=1999
-          
+
           AGE=$(echo "($CURRENT_YEAR - $BIRTH_YEAR)" | bc -l)
           OLD_AGE=$(echo "$AGE - 1" | bc -l)
-          
+
           sed -i "s/$OLD_AGE/$AGE/" README.md
-                    
-          #git add -A .
-          #git commit -m "Updated age: $OLD_AGE => $AGE 🎉"
-          #git push -u origin master
-          
+
+          git add -A .
+          git commit -m "Updated age: $OLD_AGE => $AGE 🎉"
+          git push -u origin master
+
           echo ::set-output name=old_age::$OLD_AGE
           echo ::set-output name=age::$AGE
       -
@@ -52,10 +52,9 @@ jobs:
           github-token: ${{ secrets.TKN }}
           script: |
             github.rest.users.getAuthenticated()
-              .then(response => 
-                console.log(
-                  response.data.bio, 
-                  response.data.bio.replace('${{ steps.readme.outputs.old_age }}', '${{ steps.readme.outputs.age }}') 
-                )
-              )
-          
+              .then(response => {
+                const bio = response.data.bio
+                const updatedBio = bio.replace('${{ steps.readme.outputs.old_age }}', '${{ steps.readme.outputs.age }}').trim()
+                console.log(`New Bio: "${updatedBio}"`)
+                github.rest.users.updateAuthenticated({ bio: updatedBio })
+              })
