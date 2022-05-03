@@ -42,3 +42,12 @@ jobs:
           git commit -m "Updated age: $OLD_AGE => $AGE 🎉"
           git push -u origin master
           
+          echo ::set-output name=age::$AGE
+      -
+        name: Update BIO
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.users.getAuthenticated()
+              .then(console.log)
+          
