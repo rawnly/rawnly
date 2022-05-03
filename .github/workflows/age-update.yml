@@ -55,7 +55,7 @@ jobs:
               .then(response => 
                 console.log(
                   response.data.bio, 
-                  response.data.bio.replace('${{ steps.readme.output.old_age', '${{ steps.readme.output.age }}') 
+                  response.data.bio.replace('${{ steps.readme.outputs.old_age }}', '${{ steps.readme.outputs.age }}') 
                 )
               )
           
