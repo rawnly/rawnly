@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Federico
 
 ## 👾 About Me
-- 👋 &nbsp;I'm 23, currently living in **Rome, Italy**
+- 👋 &nbsp;I'm 22, currently living in **Rome, Italy**
 - ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale) / [My Blog](https://blog.fedevitale.dev)
 - 📸 &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
 - 🤡 Fun fact -> Most of my articles are on Swift, but I work with React 😅
