@@ -7,6 +7,10 @@
 - 🤡 Fun fact -> Most of my articles are on Swift, but I work with React 😅
 - 💻 Terminal over UI. I love creating CLIs to smooth and automate my workflow.
 
+## Cool Stuff
+- 🖼 [Splash CLI][splash-cli] - A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.
+- 🎵 [Music Extension][music-ext] for [Raycast][raycast]
+
 #### DevKit
 - 🦊 [Firefox Developer Edition][firefox-dev] / *Safari*
 - 🗒️ VSCode / Goland / IntelliJ
@@ -22,10 +26,11 @@
 - Boost your mood with [150$ on **Autonomous.ai**](https://bit.ly/3iFXdcn) <br />
 - Launch your cloud apps with [25$ on **DigitalOcean**](https://m.do.co/c/f88cef1a6e56) <br/>
 - Print awesome high quality stickers with [10$ on **StickerMule**](https://www.stickermule.com/it/unlock?ref_id=6392580701&utm_medium=link&utm_source=invite)
-<!-- - [Get 10$ on **Notion**](https://www.notion.so/?r=a343a2c1fbd9490c85dd67fe7576debc) <br/> -->
-
 
 [oh-my-zsh]: https://github.com/ohmyzsh/ohmyzsh
 [powerlevel10k]: https://github.com/romkatv/powerlevel10k
 [iterm]: https://iterm2.com
 [firefox-dev]: https://www.mozilla.org/en-US/firefox/developer/
+[splash-cli]: https://splash-cli.app
+[music-ext]: https://www.raycast.com/fedevitaledev/music#install
+[raycast]: https://www.raycast.com/
