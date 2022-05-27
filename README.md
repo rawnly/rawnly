@@ -8,7 +8,7 @@
 - 💻 Terminal over UI. I love creating CLIs to smooth and automate my workflow.
 
 #### Cool Stuff
-- 🖼 [Splash CLI][splash-cli] - A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.
+- 🖼 [Splash CLI][splash-cli] - A dead simple, command line tool to download and set Unsplash photos as wallpapers.
 - 🎵 [Music Extension][music-ext] for [Raycast][raycast]
 
 #### DevKit
