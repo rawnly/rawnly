@@ -7,7 +7,7 @@
 - 🤡 Fun fact -> Most of my articles are on Swift, but I work with React 😅
 - 💻 Terminal over UI. I love creating CLIs to smooth and automate my workflow.
 
-## Cool Stuff
+#### Cool Stuff
 - 🖼 [Splash CLI][splash-cli] - A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.
 - 🎵 [Music Extension][music-ext] for [Raycast][raycast]
 
