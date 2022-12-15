@@ -18,7 +18,6 @@
 
 #### 📬 Reach me at
 - ✉️ &nbsp;[mail@fedevitale.dev](mailto:mail@fedevitale.dev) <br/>
-- 📱 &nbsp;[@fedevitale.dev](https://instagram.com/fedevitale.dev/) <br/>
 - 🐦 &nbsp;[@fedevitaledev](https://twitter.com/fedevitaledev/) <br/>
 
 ### Referreals ✌️
