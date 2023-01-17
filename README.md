@@ -34,4 +34,5 @@
 [music-ext]: https://www.raycast.com/fedevitaledev/music#install
 [raycast]: https://www.raycast.com/
 [neovim]: https://github.com/neovim/neovim
-[astronvim]: astronvim.github.io
+[astronvim]: https://astronvim.github.io
+[alacritty]: https://alacritty.org 
