@@ -12,9 +12,9 @@
 - 🎵 [Music Extension][music-ext] for [Raycast][raycast]
 
 #### DevKit
-- 🦊 [Firefox Developer Edition][firefox-dev] / *Safari*
-- 🗒️ VSCode / Goland / IntelliJ
-- 💻 [iTerm2][iterm] / [OhMyZSH][oh-my-zsh] / [p10k][powerlevel10k]
+- 🗺 [Arc Browser](https://arc.net)
+- 🗒️ [Neovim][neovim] + [AstroNvim][astronvim]
+- 💻 [Alacritty][alacritty] + Tmux
 
 #### 📬 Reach me at
 - ✉️ &nbsp;[mail@fedevitale.dev](mailto:mail@fedevitale.dev) <br/>
@@ -33,3 +33,5 @@
 [splash-cli]: https://splash-cli.app
 [music-ext]: https://www.raycast.com/fedevitaledev/music#install
 [raycast]: https://www.raycast.com/
+[neovim]: https://github.com/neovim/neovim
+[astronvim]: astronvim.github.io
