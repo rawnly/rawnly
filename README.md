@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Federico
 
 ## 👾 About Me
-- ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fede.vitale) / [My Blog](https://untitled.dev)
+- ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fedevitale) / [My Blog](https://untitled.dev)
 - 📸 &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
 - 💻 Terminal over UI. I love creating CLIs to smooth and automate my workflow.
 
