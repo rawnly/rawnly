@@ -12,7 +12,7 @@
 #### DevKit
 - 🗺 [Arc Browser](https://arc.net)
 - 🗒️ [Neovim][neovim] + [AstroNvim][astronvim]
-- 💻 [Alacritty][alacritty] + Tmux
+- 💻 [wezterm][wezterm] + Tmux
 
 #### 📬 Reach me at
 - ✉️ &nbsp;[mail@fedevitale.dev](mailto:mail@fedevitale.dev) <br/>
@@ -27,6 +27,7 @@
 [oh-my-zsh]: https://github.com/ohmyzsh/ohmyzsh
 [powerlevel10k]: https://github.com/romkatv/powerlevel10k
 [iterm]: https://iterm2.com
+[wezterm]: https://github.com/wez/wezterm
 [firefox-dev]: https://www.mozilla.org/en-US/firefox/developer/
 [splash-cli]: https://splash-cli.app
 [music-ext]: https://www.raycast.com/fedevitaledev/music#install
