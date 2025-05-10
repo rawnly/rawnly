@@ -9,10 +9,10 @@
 - 🖼 [Splash CLI][splash-cli] - A dead simple, command line tool to download and set Unsplash photos as wallpapers.
 - 🎵 [Music Extension][music-ext] for [Raycast][raycast]
 
-#### DevKit
-- 🗺 [Arc Browser](https://arc.net)
+#### Kit
+- 🗺 Safari
 - 🗒️ [Neovim][neovim] + [AstroNvim][astronvim]
-- 💻 [wezterm][wezterm] + Tmux
+- 💻 [ghostty](ghostty.org) 
 
 #### 📬 Reach me at
 - ✉️ &nbsp;[mail@fedevitale.dev](mailto:mail@fedevitale.dev) <br/>
