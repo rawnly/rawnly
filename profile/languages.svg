@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">rawnly&#39;s languages</title>
-  <desc id="descId">JSON: 73.4%, TypeScript: 11.4%, Go: 4.3%, YAML: 3.4%, JavaScript: 2.2%, Markdown: 1.7%, Other: 3.6%. calculated analyzing all 169 pull requests</desc>
+  <desc id="descId">TypeScript: 49.1%, Go: 18.5%, JavaScript: 9.5%, Markdown: 7.5%, Swift: 6.7%, Lua: 4.1%, Rust: 3.9%, Other: 0.6%. calculated analyzing all 169 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -36,30 +36,32 @@
       }
     }
     :root {
-      --lang-0: #292929;
-      --lang-1: #3178c6;
-      --lang-2: #00a0cb;
-      --lang-3: #cb171e;
-      --lang-4: #a49300;
-      --lang-5: #083fa1;
-      --lang-6: #8b949e;
+      --lang-0: #3178c6;
+      --lang-1: #00a0cb;
+      --lang-2: #a49300;
+      --lang-3: #083fa1;
+      --lang-4: #f05138;
+      --lang-5: #000080;
+      --lang-6: #bd8666;
+      --lang-7: #8b949e;
     }
     @media (prefers-color-scheme: dark) {
       :root {
-      --lang-0: #616161;
-      --lang-1: #3178c6;
-      --lang-2: #00add8;
-      --lang-3: #cb171e;
-      --lang-4: #f1e05a;
-      --lang-5: #285ec2;
-      --lang-6: #8b949e;
+      --lang-0: #3178c6;
+      --lang-1: #00add8;
+      --lang-2: #f1e05a;
+      --lang-3: #285ec2;
+      --lang-4: #f05138;
+      --lang-5: #2958cd;
+      --lang-6: #dea584;
+      --lang-7: #8b949e;
       }
     }
     .name { font: 600 12.5px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: var(--strong); }
     .share { font: 400 12.5px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: var(--text); }
     .note { font: 400 10.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: var(--dim); }
     .entry, .note { opacity: 0; animation: fadeIn .3s ease-out forwards; }
-    .note { animation-delay: 690ms; }
+    .note { animation-delay: 760ms; }
     @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
   </style>
   <rect x="0.5" y="0.5" rx="6" width="466" height="147" stroke="var(--border)" fill="var(--bg)"/>
@@ -67,38 +69,43 @@
     <g>
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
-        <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">73.4%</text>
+        <text class="name" x="16" y="11">TypeScript</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">49.1%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
-        <text class="name" x="16" y="11">TypeScript</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">11.4%</text>
+        <text class="name" x="16" y="11">Go</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">18.5%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
-        <text class="name" x="16" y="11">Go</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">4.3%</text>
+        <text class="name" x="16" y="11">JavaScript</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">9.5%</text>
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
-        <text class="name" x="16" y="11">YAML</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">3.4%</text>
+        <text class="name" x="16" y="11">Markdown</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">7.5%</text>
       </g>
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
-        <text class="name" x="16" y="11">JavaScript</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">2.2%</text>
+        <text class="name" x="16" y="11">Swift</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">6.7%</text>
       </g>
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-5)"/>
-        <text class="name" x="16" y="11">Markdown</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">1.7%</text>
+        <text class="name" x="16" y="11">Lua</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">4.1%</text>
       </g>
       <g class="entry" style="animation-delay: 540ms" transform="translate(0.0, 63)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-6)"/>
+        <text class="name" x="16" y="11">Rust</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">3.9%</text>
+      </g>
+      <g class="entry" style="animation-delay: 610ms" transform="translate(211.5, 63)">
+        <circle cx="4" cy="7.5" r="4" fill="var(--lang-7)"/>
         <text class="name" x="16" y="11">Other</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">3.6%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">0.6%</text>
       </g>
     </g>
     <text class="note" x="0" y="100">calculated analyzing all 169 pull requests</text>
