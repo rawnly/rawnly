@@ -1,26 +1,21 @@
 ## Hi 👋, I'm Federico
 
 ## 👾 About Me
-- ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fedevitale) / [My Blog](https://untitled.dev)
+- ✍️ &nbsp;I share my findings on [Medium](https://medium.com/@fedevitale) / [My Blog](https://untitled.dev) and [X](https://x.com/fedevitaledev)
 - 📸 &nbsp;Photos on [Unsplash](https://unsplash.com/@fedevitale)
 - 💻 Terminal over UI. I love creating CLIs to smooth and automate my workflow.
 
-#### Cool Stuff
+#### Cool OSS Things 
 - 🖼 [Splash CLI][splash-cli] - A dead simple, command line tool to download and set Unsplash photos as wallpapers.
 - 🎵 [Music Extension][music-ext] for [Raycast][raycast]
-
-#### Kit
-- 🗺 Safari
-- 🗒️ [Neovim][neovim] + [AstroNvim][astronvim]
-- 💻 [ghostty](ghostty.org) 
-
-#### 📬 Reach me at
-- ✉️ &nbsp;[mail@fedevitale.dev](mailto:mail@fedevitale.dev) <br/>
-- 🐦 &nbsp;[@fedevitaledev](https://twitter.com/fedevitaledev/) <br/>
 
 ### Referreals ✌️
 - Print awesome high quality stickers with [10$ on **StickerMule**](https://www.stickermule.com/it/unlock?ref_id=6392580701&utm_medium=link&utm_source=invite) <br/>
 - Launch your cloud apps with [25$ on **DigitalOcean**](https://m.do.co/c/f88cef1a6e56) <br/>
+
+### Some numbers
+![stats](./profile/stats.svg)
+![langs](./profile/languages.svg)
 
 
 [oh-my-zsh]: https://github.com/ohmyzsh/ohmyzsh
