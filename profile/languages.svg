@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">rawnly&#39;s languages</title>
-  <desc id="descId">TypeScript: 49.1%, Go: 18.5%, JavaScript: 9.5%, Markdown: 7.5%, Swift: 6.7%, Lua: 4.1%, Rust: 3.9%, Other: 0.6%. calculated analyzing all 169 pull requests</desc>
+  <desc id="descId">TypeScript: 49.1%, Go: 18.5%, JavaScript: 9.5%, Markdown: 7.6%, Swift: 6.7%, Lua: 4.1%, Rust: 3.9%, Other: 0.6%. calculated analyzing all 170 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -85,7 +85,7 @@
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
         <text class="name" x="16" y="11">Markdown</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">7.5%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">7.6%</text>
       </g>
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
@@ -108,6 +108,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">0.6%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 169 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 170 pull requests</text>
   </g>
 </svg>
