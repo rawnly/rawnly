@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Federico&#39;s GitHub stats</title>
-  <desc id="descId">Repositories: 229, Total Commits: 2267, Commits (2026): 485, Total PRs: 170, PR Merge Rate: 71.8%, PRs Reviewed: 43, Total Issues: 168, Total Stars Earned: 1275. Contributions: 5375</desc>
+  <desc id="descId">Repositories: 229, Total Commits: 2267, Commits (2026): 485, Total PRs: 170, PR Merge Rate: 71.8%, PRs Reviewed: 43, Total Issues: 168, Total Stars Earned: 1276. Contributions: 5375</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -77,7 +77,7 @@
         <text class="caption" x="0" y="47">TOTAL ISSUES</text>
       </g>
       <g class="stagger" style="animation-delay: 830ms" transform="translate(139, 155)">
-        <text class="figure" x="0" y="30">1275</text>
+        <text class="figure" x="0" y="30">1276</text>
         <text class="caption" x="0" y="47">TOTAL STARS EARNED</text>
       </g>
       <g class="spark" transform="translate(0, 243)">
